@@ -1,1 +1,0 @@
-# salarypridiction.github.io
